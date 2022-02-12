@@ -1,10 +1,13 @@
 ## Hello, I'm Artyom Khyuppenen
 
 ### I'm backend developer
-- 👋 Hi, I’m @huppafr
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming and dancing
 - 🌱 I’m currently learning Python + Django
-- 📫 How to reach me: +79995240890
+- 📫 How to reach me: +79995240890 or Telegramm: https://t.me/Haupauge
+
+
+### Skills and tools
+
 
 
 <!---
