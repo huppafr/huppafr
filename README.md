@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huppafr
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Yandex.Praktikum
+- 🌱 I’m currently learning Python + Django
 - 📫 How to reach me: +79995240890
 
 
