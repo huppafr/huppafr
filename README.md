@@ -4,7 +4,7 @@
 - 👀 I’m interested in programming and computer science
 - 🌱 I’m currently learning Python + Django
 - 📫 How to reach me: 
-  - Phone: +79995240890
+  - Phone: +79292635582
   - Mail: huppenen.ad@gmail.com
   - Telegramm: https://t.me/Haupauge
 
