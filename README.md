@@ -2,7 +2,7 @@
 
 ### I'm backend developer
 - 👀 I’m interested in programming and computer science
-- 🌱 I’m currently learning Python + Django
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: 
   - Phone: +79292635582
   - Mail: huppenen.ad@gmail.com
