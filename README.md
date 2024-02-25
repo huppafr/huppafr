@@ -1,6 +1,6 @@
 ## Hello, I'm Artyom Khyuppenen
 
-### I'm backend developer
+### I'm QA automation engeneer
 - 👀 I’m interested in programming and computer science
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: 
